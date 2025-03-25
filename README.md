@@ -32,7 +32,7 @@ Diseñar e implementar un sistema que optimice el costo total de una compra, con
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/compra-genetica.git
+   git clone https://github.com/daarwinmendez/compra-genetica.git
    cd compra-genetica
    ```
 
