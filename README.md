@@ -2,7 +2,7 @@
 
 Proyecto de optimización de compras en supermercados utilizando **Algoritmos Genéticos**, desarrollado para la materia **Inteligencia Artificial Distribuida** en el ITLA.
 
-## 🎯 Objetivo
+## 🌟 Objetivo
 
 Diseñar e implementar un sistema que optimice el costo total de una compra, considerando:
 
@@ -28,7 +28,22 @@ Diseñar e implementar un sistema que optimice el costo total de una compra, con
 - `Validación`: análisis comparativo con múltiples combinaciones de parámetros.
 - `logs/`: registros detallados de cada ejecución.
 
-## 🧪 Validación
+## 🚀 Instalación
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tu_usuario/compra-genetica.git
+   cd compra-genetica
+   ```
+
+2. Instala las dependencias:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+> **Nota:** Si estás utilizando Google Colab, muchas librerías ya vienen instaladas por defecto.
+
+## 🤪 Validación
 
 El sistema fue evaluado contra métodos de referencia (Greedy, Fuerza Bruta Aproximada) y mostró **excelentes resultados**. Las configuraciones con mejor desempeño fueron:
 
@@ -44,7 +59,7 @@ El análisis estadístico arrojó:
 - Menor dispersión y error puntual
 - Reducción significativa en costos comparados con métodos de referencia
 
-## 👨‍💻 Contribuyentes
+## 👨‍💼 Contribuyentes
 
 - **Darwin Méndez**  
   [GitHub](https://github.com/Daarwinmendez)  
@@ -65,5 +80,3 @@ El análisis estadístico arrojó:
 ## ⚠️ Notas sobre honestidad académica
 
 Este repositorio **no contiene ni sube instrucciones textuales del docente**. Toda la lógica y documentación fueron desarrolladas por los estudiantes, basadas en el análisis e implementación de los requerimientos de la materia.
-
----
